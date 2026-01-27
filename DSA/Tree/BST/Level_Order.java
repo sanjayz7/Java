@@ -24,9 +24,6 @@ class Main {
             }
               System.out.println();
         }
-        
-        
-        
     }
     public static TreeNode buildTree(String arr[]){
         //if(arr.length()==0||arr[0].equals("null")) return null;
@@ -62,3 +59,5 @@ class TreeNode{
         this.val=val;
     }
 }
+
+;  behind the scence how we actually store instead of actual value ,i want even address is to remeber
