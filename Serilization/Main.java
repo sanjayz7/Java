@@ -4,7 +4,7 @@ class Student implements Serializable {
     public Student(String name) { this.name = name; }
     @Override public String toString()
     {
-        return "Student: " + name;
+        return "Student : " + name;
     }
 }
 public class Main {
