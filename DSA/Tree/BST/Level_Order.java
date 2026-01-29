@@ -59,5 +59,3 @@ class TreeNode{
         this.val=val;
     }
 }
-
-;  behind the scence how we actually store instead of actual value ,i want even address is to remeber
