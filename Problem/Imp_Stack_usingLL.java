@@ -39,7 +39,7 @@ class MyStack {
     }
 }
 
-public class Main {
+public class Imp_Stack_usingLL {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
