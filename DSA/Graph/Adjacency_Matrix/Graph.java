@@ -35,6 +35,8 @@ public class Graph {
   void removeEdge(int src, int dest) {
     matrix[src][dest] = 0;
     matrix[dest][src] = 0; // For undirected graph
+
+    
   }
 
   void removeNode(Node node) {
