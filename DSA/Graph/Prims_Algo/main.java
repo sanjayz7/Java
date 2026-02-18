@@ -73,6 +73,7 @@ public class MinimumSpanningTree {
       inMST.add(source);
       inMST.add(destination);
     }
+    
 
     // Print the MST edges
     System.out.println("Minimum Spanning Tree Edges:");
