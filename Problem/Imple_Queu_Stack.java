@@ -11,6 +11,8 @@ class MyQueue {
             while (!input.isEmpty()) output.push(input.pop());
         return output.peek();
     }
+
+    
     public boolean empty() { return input.isEmpty() && output.isEmpty(); }
 }
 
