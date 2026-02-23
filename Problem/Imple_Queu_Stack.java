@@ -16,6 +16,8 @@ class MyQueue {
     public boolean empty() { return input.isEmpty() && output.isEmpty(); }
 }
 
+
+
 public class Main {
     public static void main(String[] args) {
         String[] commands = {"MyQueue", "push", "push", "peek", "pop", "empty"};
