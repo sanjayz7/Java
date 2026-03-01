@@ -4,6 +4,7 @@ import java.util.*;
 
 public class MinimumSpanningTree {
 
+  
   public List<GraphEdge> primMST(WeightedGraph graph) {
     List<GraphEdge>[] vertices = graph.getVertices();
 
