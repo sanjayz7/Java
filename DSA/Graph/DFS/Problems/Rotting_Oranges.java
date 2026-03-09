@@ -33,5 +33,6 @@ class Solution {
     dfs(grid, time, i, j - 1, currentTime + 1);
     dfs(grid, time, i, j + 1, currentTime + 1);
   }
+  
 
 }
