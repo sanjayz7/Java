@@ -4,6 +4,8 @@ class Solution {
     Arrays.sort(nums);
     backtrack(list, new ArrayList<>(), nums, 0);
     return list;
+
+    
 }
 
 private void backtrack(List<List<Integer>> list , List<Integer> tempList, int [] nums, int start){
