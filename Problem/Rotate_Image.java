@@ -1,6 +1,40 @@
 import java.util.Scanner;
 
 public class Main {
+
+    // Method to rotate the matrix
+    public static void rotate(int[][] matrix) {
+        int l = 0;
+        int r = matrix.length - 1;
+
+        while (l < r) {
+            int n = r - l;
+
+            for (int i = 0; i < n; i++) {
+                int top = l;
+                int bottom = r;
+
+                // Save top-left
+                int temp = matrix[top][l + i];
+
+                // Move bottom-left to top-left
+                matrix[top][l + i] = matrix[bottom - i][l];
+
+                // Move bottom-right to bottom-left
+                matrix[bottom - i][l] = matrix[bottom][r - i];
+
+                // Move top-right to bottom-right
+                matrix[bottom][r - i] = matrix[top + i][r];
+
+                // Move saved top-left to top-right
+                matrix[top + i][r] = temp;
+            }
+
+            r--;
+            l++;
+        }
+    }
+
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
@@ -18,8 +52,8 @@ public class Main {
             }
         }
 
-        Solution sol = new Solution();
-        sol.rotate(matrix);
+        // Call rotate method
+        rotate(matrix);
 
         // Print rotated matrix
         System.out.println("Rotated matrix:");
@@ -29,34 +63,7 @@ public class Main {
             }
             System.out.println();
         }
-    }
-}
 
-class Solution {
-    public void rotate(int[][] matrix) {
-        int l=0;
-        int r=matrix.length-1;
-        while(l<r){
-            int n=r-l;
-            for(int i=0;i<n;i++){
-                int top=l;
-                int bottom=r;
-                //Save the top-left intp temp
-                int temp=matrix[top][l+i];
-                //Move bottom left into top left
-                matrix[top][l+i]=matrix[bottom-i][l];
-                 //Move bottom right into bottom left
-                matrix[bottom-i][l]=matrix[bottom][r-i];
-                 //Move top right into bottom right
-                matrix[bottom][r-i]=matrix[top+i][r];
-                //Move top left into top right
-                matrix[top+i][r]=temp;
-
-
-                
-            }
-            r=r-1;
-            l=l+1;
-        }
+        sc.close();
     }
 }
