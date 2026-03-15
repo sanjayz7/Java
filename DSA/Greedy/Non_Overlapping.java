@@ -8,6 +8,7 @@ class Solution {
                    int start =intervals[i][0];
                    
                    if(start<last){
+                    
                     ans++;
                    }
                    else{
