@@ -11,6 +11,7 @@ class Solution {
                     
                     ans++;
                    }
+                   
                    else{
                     last=intervals[i][1];
                    }
