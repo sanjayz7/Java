@@ -17,7 +17,7 @@ public class Main {
    
 
     g.printMatrix();
-    g.dfs(0);
+    g.bfs(0);
 
   
   }
