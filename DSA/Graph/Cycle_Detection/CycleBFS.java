@@ -44,8 +44,8 @@ public class CycleBFS {
         boolean[] visited = new boolean[n];
 
         if (hasCycle(0, visited, graph))
-            System.out.println("Cycle Detected 🚨");
+            System.out.println("Cycle Detected ");
         else
-            System.out.println("No Cycle 🎉");
+            System.out.println("No Cycle ");
     }
 }
