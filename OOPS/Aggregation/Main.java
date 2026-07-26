@@ -10,13 +10,13 @@ public class Main  {
     } 
   }
 
-📝 Explanation
-Employee has an Address.
+// Explanation
+// Employee has an Address.
 
-But Address can exist without Employee.
+// But Address can exist without Employee.
 
-This is aggregation.
-If instead Address was created inside Employee and couldn’t exist independently, that would be composition.
+// This is aggregation.
+// If instead Address was created inside Employee and couldn’t exist independently, that would be composition.
 
 
 

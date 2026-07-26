@@ -1,5 +1,3 @@
-package Payment;
-
-public class Notifier {
-  
+interface Notifier {
+    void send(String message);
 }

@@ -1,5 +1,5 @@
-package Payment;
-
-public class EmailNotifier {
-  
+class EmailNotifier implements Notifier {
+    public void send(String message) {
+        System.out.println("Email sent: " + message);
+    }
 }
