@@ -11,8 +11,8 @@ class Solution {
             for(int j=0;j<i;j++){
                
                 if(nums[j]<nums[i]){
-                    value=Math.max(value,dp[j]);
-                    dp[i]=Math.max(dp[i],value+1);
+                    
+                    dp[i]=Math.max(dp[i],dp[j]+1);
                 }
             }
             ans=Math.max(ans,dp[i]);
