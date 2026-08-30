@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/sanjayz7/Java/tree/master/0084-largest-rectangle-in-histogram) |
 | [0300-longest-increasing-subsequence](https://github.com/sanjayz7/Java/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/sanjayz7/Java/tree/master/0322-coin-change) |
+| [0542-01-matrix](https://github.com/sanjayz7/Java/tree/master/0542-01-matrix) |
 ## Binary Search
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/sanjayz7/Java/tree/master/0005-longest-palindromic-substring) |
 | [0300-longest-increasing-subsequence](https://github.com/sanjayz7/Java/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/sanjayz7/Java/tree/master/0322-coin-change) |
+| [0542-01-matrix](https://github.com/sanjayz7/Java/tree/master/0542-01-matrix) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/sanjayz7/Java/tree/master/0322-coin-change) |
+| [0542-01-matrix](https://github.com/sanjayz7/Java/tree/master/0542-01-matrix) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -107,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/sanjayz7/Java/tree/master/0232-implement-queue-using-stacks) |
+## Matrix
+|  |
+| ------- |
+| [0542-01-matrix](https://github.com/sanjayz7/Java/tree/master/0542-01-matrix) |
 <!---LeetCode Topics End-->
