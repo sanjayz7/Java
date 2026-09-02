@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sanjayz7/Java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sanjayz7/Java/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/sanjayz7/Java/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/sanjayz7/Java/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/sanjayz7/Java/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/sanjayz7/Java/tree/master/0542-01-matrix) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/sanjayz7/Java/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/sanjayz7/Java/tree/master/0239-sliding-window-maximum) |
 ## Design
 |  |
 | ------- |
@@ -110,8 +112,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/sanjayz7/Java/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/sanjayz7/Java/tree/master/0239-sliding-window-maximum) |
 ## Matrix
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/sanjayz7/Java/tree/master/0542-01-matrix) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/sanjayz7/Java/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/sanjayz7/Java/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/sanjayz7/Java/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
