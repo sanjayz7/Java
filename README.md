@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/sanjayz7/Java/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/sanjayz7/Java/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/sanjayz7/Java/tree/master/0322-coin-change) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/sanjayz7/Java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0542-01-matrix](https://github.com/sanjayz7/Java/tree/master/0542-01-matrix) |
 ## Binary Search
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/sanjayz7/Java/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/sanjayz7/Java/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sanjayz7/Java/tree/master/0142-linked-list-cycle-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/sanjayz7/Java/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -136,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/sanjayz7/Java/tree/master/0175-combine-two-tables) |
+## Sorting
+|  |
+| ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/sanjayz7/Java/tree/master/0442-find-all-duplicates-in-an-array) |
 <!---LeetCode Topics End-->
