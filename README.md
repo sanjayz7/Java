@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sanjayz7/Java/tree/master/0005-longest-palindromic-substring) |
 | [0076-minimum-window-substring](https://github.com/sanjayz7/Java/tree/master/0076-minimum-window-substring) |
+| [0709-to-lower-case](https://github.com/sanjayz7/Java/tree/master/0709-to-lower-case) |
 ## Manacher
 |  |
 | ------- |
