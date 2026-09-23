@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/sanjayz7/Java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sanjayz7/Java/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanjayz7/Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0238-product-of-array-except-self](https://github.com/sanjayz7/Java/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/sanjayz7/Java/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/sanjayz7/Java/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/sanjayz7/Java/tree/master/0322-coin-change) |
@@ -145,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sanjayz7/Java/tree/master/0442-find-all-duplicates-in-an-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/sanjayz7/Java/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
