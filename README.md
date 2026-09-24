@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/sanjayz7/Java/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sanjayz7/Java/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanjayz7/Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/sanjayz7/Java/tree/master/0152-maximum-product-subarray) |
 | [0238-product-of-array-except-self](https://github.com/sanjayz7/Java/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/sanjayz7/Java/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/sanjayz7/Java/tree/master/0300-longest-increasing-subsequence) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/sanjayz7/Java/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/sanjayz7/Java/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanjayz7/Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/sanjayz7/Java/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/sanjayz7/Java/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/sanjayz7/Java/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/sanjayz7/Java/tree/master/0542-01-matrix) |
