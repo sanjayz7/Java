@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/sanjayz7/Java/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/sanjayz7/Java/tree/master/0322-coin-change) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sanjayz7/Java/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0518-coin-change-ii](https://github.com/sanjayz7/Java/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/sanjayz7/Java/tree/master/0542-01-matrix) |
 ## Binary Search
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/sanjayz7/Java/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/sanjayz7/Java/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/sanjayz7/Java/tree/master/0322-coin-change) |
+| [0518-coin-change-ii](https://github.com/sanjayz7/Java/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/sanjayz7/Java/tree/master/0542-01-matrix) |
 ## Longest Increasing Subsequence
 |  |
@@ -67,10 +69,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/sanjayz7/Java/tree/master/0322-coin-change) |
+| [0518-coin-change-ii](https://github.com/sanjayz7/Java/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/sanjayz7/Java/tree/master/0322-coin-change) |
+| [0518-coin-change-ii](https://github.com/sanjayz7/Java/tree/master/0518-coin-change-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
