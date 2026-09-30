@@ -1,21 +1,15 @@
-import java.util.Arrays;
-
 class Solution {
     public int coinChange(int[] coins, int amount) {
-        int[] dp = new int[amount + 1];
-        // amount + 1 represents "infinity"
-        Arrays.fill(dp, amount + 1);
-        
-        dp[0] = 0;
-        
-          for(int i=0;i<=amount;i++){
-             for (int coin : coins) {
-                if (i - coin >= 0) {
-                    dp[i] = Math.min(dp[i], 1 + dp[i - coin]);
-                }
+        int ans[]= new int [amount+1];
+        Arrays.fill(ans, amount + 1);
+
+        ans[0]=0;
+        for(int i=0;i<=amount;i++){
+            for(int amt:coins){
+                if(amt>i)continue;;
+                ans[i]=Math.min(ans[i-amt]+1,ans[i]);
             }
         }
-        
-        return dp[amount] > amount ? -1 : dp[amount];
+        return ans[amount] > amount ? -1 : ans[amount];
     }
 }
