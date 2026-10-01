@@ -1,52 +1,59 @@
 class Solution {
 
-    private Map<Integer, Integer> stoneToIndex;
-    private Boolean[][] memo;
-    private int[] stones;
+    boolean[][] dp;
 
     public boolean canCross(int[] stones) {
-        this.stones = stones;
+
         int n = stones.length;
 
-        stoneToIndex = new HashMap<>();
-
-        for (int i = 0; i < n; i++) {
-            stoneToIndex.put(stones[i], i);
+        // First jump must be 1
+        if (stones[1] != 1) {
+            return false;
         }
 
-        memo = new Boolean[n][n];
+        dp = new boolean[n][n];
 
-        return dfs(0, 0);
+        return helper(stones, 0, 1);
     }
 
-    private boolean dfs(int index, int lastJump) {
+    boolean helper(int[] stones, int lastIndex, int currentIndex) {
 
-        if (index == stones.length - 1) {
+        // Reached last stone
+        if (currentIndex == stones.length - 1) {
             return true;
         }
 
-        if (memo[index][lastJump] != null) {
-            return memo[index][lastJump];
+        // Already explored and failed
+        if (dp[lastIndex][currentIndex]) {
+            return false;
         }
 
-        for (int jump = lastJump - 1; jump <= lastJump + 1; jump++) {
+        int lastJump =
+                stones[currentIndex] - stones[lastIndex];
 
-            if (jump <= 0) {
-                continue;
-            }
+        int nextIndex = currentIndex + 1;
 
-            int nextStone = stones[index] + jump;
+        while (nextIndex < stones.length &&
+               stones[nextIndex] <= stones[currentIndex] + lastJump + 1) {
 
-            if (stoneToIndex.containsKey(nextStone)) {
+            int nextJump =
+                    stones[nextIndex] - stones[currentIndex];
 
-                int nextIndex = stoneToIndex.get(nextStone);
+            int diff = nextJump - lastJump;
 
-                if (dfs(nextIndex, jump)) {
-                    return memo[index][lastJump] = true;
+            if (diff >= -1 && diff <= 1) {
+
+                if (helper(stones, currentIndex, nextIndex)) {
+                    return true;
                 }
             }
+
+            nextIndex++;
         }
 
-        return memo[index][lastJump] = false;
+        // Mark state as failed
+        dp[lastIndex][currentIndex] = true;
+
+        return false;
     }
 }
