@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/sanjayz7/Java/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/sanjayz7/Java/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/sanjayz7/Java/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/sanjayz7/Java/tree/master/0392-is-subsequence) |
 | [0403-frog-jump](https://github.com/sanjayz7/Java/tree/master/0403-frog-jump) |
 | [0518-coin-change-ii](https://github.com/sanjayz7/Java/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/sanjayz7/Java/tree/master/0542-01-matrix) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sanjayz7/Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/sanjayz7/Java/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/sanjayz7/Java/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/sanjayz7/Java/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/sanjayz7/Java/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/sanjayz7/Java/tree/master/0977-squares-of-a-sorted-array) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sanjayz7/Java/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sanjayz7/Java/tree/master/0005-longest-palindromic-substring) |
 | [0076-minimum-window-substring](https://github.com/sanjayz7/Java/tree/master/0076-minimum-window-substring) |
+| [0392-is-subsequence](https://github.com/sanjayz7/Java/tree/master/0392-is-subsequence) |
 | [0709-to-lower-case](https://github.com/sanjayz7/Java/tree/master/0709-to-lower-case) |
 ## Manacher
 |  |
