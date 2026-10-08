@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/sanjayz7/Java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0518-coin-change-ii](https://github.com/sanjayz7/Java/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/sanjayz7/Java/tree/master/0542-01-matrix) |
+| [0977-squares-of-a-sorted-array](https://github.com/sanjayz7/Java/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/sanjayz7/Java/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/sanjayz7/Java/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/sanjayz7/Java/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/sanjayz7/Java/tree/master/0977-squares-of-a-sorted-array) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sanjayz7/Java/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## String
 |  |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sanjayz7/Java/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sanjayz7/Java/tree/master/0016-3sum-closest) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sanjayz7/Java/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/sanjayz7/Java/tree/master/0977-squares-of-a-sorted-array) |
 ## Prefix Sum
 |  |
 | ------- |
