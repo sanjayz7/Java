@@ -188,4 +188,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sanjayz7/Java/tree/master/0238-product-of-array-except-self) |
+## Math
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/sanjayz7/Java/tree/master/0371-sum-of-two-integers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/sanjayz7/Java/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
