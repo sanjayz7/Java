@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/sanjayz7/Java/tree/master/0005-longest-palindromic-substring) |
 | [0076-minimum-window-substring](https://github.com/sanjayz7/Java/tree/master/0076-minimum-window-substring) |
 | [0392-is-subsequence](https://github.com/sanjayz7/Java/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/sanjayz7/Java/tree/master/0394-decode-string) |
 | [0709-to-lower-case](https://github.com/sanjayz7/Java/tree/master/0709-to-lower-case) |
 ## Manacher
 |  |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/sanjayz7/Java/tree/master/0143-reorder-list) |
 | [0232-implement-queue-using-stacks](https://github.com/sanjayz7/Java/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/sanjayz7/Java/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/sanjayz7/Java/tree/master/0394-decode-string) |
 | [0739-daily-temperatures](https://github.com/sanjayz7/Java/tree/master/0739-daily-temperatures) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sanjayz7/Java/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/sanjayz7/Java/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/sanjayz7/Java/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/sanjayz7/Java/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/sanjayz7/Java/tree/master/0394-decode-string) |
 ## Hash Table
 |  |
 | ------- |
