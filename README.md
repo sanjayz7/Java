@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/sanjayz7/Java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0518-coin-change-ii](https://github.com/sanjayz7/Java/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/sanjayz7/Java/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/sanjayz7/Java/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/sanjayz7/Java/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/sanjayz7/Java/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/sanjayz7/Java/tree/master/0977-squares-of-a-sorted-array) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/sanjayz7/Java/tree/master/0142-linked-list-cycle-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/sanjayz7/Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sanjayz7/Java/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/sanjayz7/Java/tree/master/0560-subarray-sum-equals-k) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sanjayz7/Java/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/sanjayz7/Java/tree/master/0560-subarray-sum-equals-k) |
 ## Math
 |  |
 | ------- |
