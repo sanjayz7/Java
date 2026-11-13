@@ -9,23 +9,21 @@ class Solution {
         return ans;
     }
 
-    public String dfs(TreeNode root) {
-
-        if (root == null) {
-            return "#";
+    
+    public String  dfs(TreeNode node){
+        if(node==null){
+            return "%";
         }
+        String left=dfs(node.left);
+        String right=dfs(node.right);
 
-        String left = dfs(root.left);
-        String right = dfs(root.right);
+        String key=node.val+","+left+","+right;
+        map.put(key,map.getOrDefault(key,0)+1);
 
-        String key = root.val + "," + left + "," + right;
-
-        map.put(key, map.getOrDefault(key, 0) + 1);
-
-        if (map.get(key) == 2) {
-            ans.add(root);
+        if(map.get(key)==2){
+            ans.add(node);
         }
-
         return key;
+
     }
 }
