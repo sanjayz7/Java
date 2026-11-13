@@ -218,13 +218,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/sanjayz7/Java/tree/master/0110-balanced-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/sanjayz7/Java/tree/master/0652-find-duplicate-subtrees) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/sanjayz7/Java/tree/master/0110-balanced-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/sanjayz7/Java/tree/master/0652-find-duplicate-subtrees) |
 ## Binary Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/sanjayz7/Java/tree/master/0110-balanced-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/sanjayz7/Java/tree/master/0652-find-duplicate-subtrees) |
 <!---LeetCode Topics End-->
