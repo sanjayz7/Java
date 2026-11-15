@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/sanjayz7/Java/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/sanjayz7/Java/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/sanjayz7/Java/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/sanjayz7/Java/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/sanjayz7/Java/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/sanjayz7/Java/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/sanjayz7/Java/tree/master/0977-squares-of-a-sorted-array) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/sanjayz7/Java/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/sanjayz7/Java/tree/master/0239-sliding-window-maximum) |
+| [0643-maximum-average-subarray-i](https://github.com/sanjayz7/Java/tree/master/0643-maximum-average-subarray-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
