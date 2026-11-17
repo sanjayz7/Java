@@ -1,15 +1,16 @@
 class Solution {
-    public int coinChange(int[] coins, int amount) {
-        int ans[]= new int [amount+1];
-        Arrays.fill(ans, amount + 1);
-
-        ans[0]=0;
-        for(int i=0;i<=amount;i++){
-            for(int amt:coins){
-                if(amt>i)continue;;
-                ans[i]=Math.min(ans[i-amt]+1,ans[i]);
+    public int coinChange(int[] coins, int amt) {
+        int dp[]= new int [amt+1];
+        
+        Arrays.fill(dp,amt+1);
+        dp[0]=0;
+        for(int i=1;i<amt+1;i++){
+            for(int coin:coins){
+                if(coin<=i){
+                    dp[i]=Math.min(dp[i],dp[i-coin]+1);
+                }
             }
         }
-        return ans[amount] > amount ? -1 : ans[amount];
+        return dp[amt]==amt+1?-1:dp[amt];
     }
 }
